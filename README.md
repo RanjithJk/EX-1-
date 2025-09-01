@@ -36,9 +36,52 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
 
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <h1 align="center">WEB DEVELOPMENT</h1>
+</head>
+<body bgcolor="lightblue">
+    <table border="1" align="center" bgcolor="pink" cellpadding="10">
+        <th><S class="No"></S></th>
+        <th>Name of the layer</th>
+        <th>Name of the protocol</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Application layer</td>
+        <td>HTTP,FTP,DNS,Telnet,RDP</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Transport Layer</td>
+        <td>TCP,UDP</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Internet layer</td>
+        <td>ICMP,IGMP,ARP,IPV4/IPV6</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Network access layer</td>
+        <td>Ethernet,FDDI,X.25,Frame Relay,Token Ring</td>
+    </tr>
+    
+    </table>
+
+</body>
+</html>
+
+```
 
 ## OUTPUT:
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/286f0fda-eb89-4bfc-a6fa-13c334c53b8e" />
 
 
 ## RESULT:
